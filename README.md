@@ -64,6 +64,4 @@ api_key = "YOUR_API_KEY"
 
 Contributions are welcome! Please create a pull request or open an issue if you find any bugs or have suggestions for improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
