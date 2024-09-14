@@ -1,7 +1,7 @@
 # Hiking Gear Recommendation App
 
 ## Overview
-(no efforts were amde for the design , only the idea) 
+(no efforts were made for the design , only the idea) 
 The Hiking Gear Recommendation App is a desktop application built using PyQt5 that provides users with personalized gear recommendations based on the current weather conditions for various outdoor activities, such as hiking, camping, and trekking.youcan try any location it's dynamic(using OpenWeatherMap) .
 
 ![image](https://github.com/user-attachments/assets/e82e0882-1f92-4c7c-aed8-3fba6a02fdca)
